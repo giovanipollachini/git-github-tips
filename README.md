@@ -18,3 +18,6 @@ https://guides.github.com/introduction/flow/
 
 GitHub Explore - get involved in an Open Source project: 
 https://github.com/explore
+
+GitHub Guides on YouTube:
+https://www.youtube.com/githubguides
