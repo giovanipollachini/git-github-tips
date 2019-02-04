@@ -19,5 +19,10 @@ https://guides.github.com/introduction/flow/
 GitHub Explore - get involved in an Open Source project: 
 https://github.com/explore
 
+
 GitHub Guides on YouTube:
 https://www.youtube.com/githubguides
+
+
+Create new folder in GitHub:
+https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
