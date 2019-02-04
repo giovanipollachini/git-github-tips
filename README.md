@@ -7,6 +7,11 @@ Example to get started with Git and GitHub
 This example is built using the tutorial available in
 https://guides.github.com/activities/hello-world/
 
+# Tips on GitHub
+Create new folder in GitHub:
+https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
+
+
 # Aditional References
 Mastering Markdown: 
 https://guides.github.com/features/mastering-markdown/
@@ -23,6 +28,3 @@ https://github.com/explore
 GitHub Guides on YouTube:
 https://www.youtube.com/githubguides
 
-
-Create new folder in GitHub:
-https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
