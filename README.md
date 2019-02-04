@@ -28,3 +28,6 @@ https://github.com/explore
 GitHub Guides on YouTube:
 https://www.youtube.com/githubguides
 
+Git book:
+https://git-scm.com/book/en/v2
+
