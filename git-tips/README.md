@@ -7,4 +7,6 @@ https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 Check configuration settings:
 
-    git config --list
+'''git
+git config --list
+'''
