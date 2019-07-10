@@ -5,6 +5,12 @@ Example to get started with Git and GitHub
 This example is built using the tutorial available in
 https://guides.github.com/activities/hello-world/
 
+# Tips and hints
+
+* [Tips on Git](https://github.com/giovanipollachini/git-github-tips/blob/master/git-tips)
+* [Tips on GitHub](https://github.com/giovanipollachini/git-github-tips/tree/master/github-tips)
+* [Tips on Markdown](https://github.com/giovanipollachini/git-github-tips/tree/master/markdown-tips)
+
 # Aditional References
 Mastering Markdown: 
 https://guides.github.com/features/mastering-markdown/
