@@ -13,7 +13,7 @@ $ git config --list
 ```
 
 ## Getting a Git Repository
-![lifecycle-git.png](https://github.com/giovanipollachini/git-github-tips/blob/master/git-tips/images/lifecycle-git.png)
+![lifecycle-git.png]
 
 ### Initializing a Repository in an Existing Directory
 ```git
