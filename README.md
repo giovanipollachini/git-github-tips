@@ -11,6 +11,8 @@ https://guides.github.com/activities/hello-world/
 Create new folder in GitHub:
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
 
+Rename file in GitHub:
+https://help.github.com/en/articles/renaming-a-file
 
 # Aditional References
 Mastering Markdown: 
