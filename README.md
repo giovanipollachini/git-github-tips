@@ -14,6 +14,9 @@ https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitH
 Rename file in GitHub:
 https://help.github.com/en/articles/renaming-a-file
 
+Delete a repository in GitHub:
+https://watchdogreviews.com/delete-github-repository/
+
 # Aditional References
 Mastering Markdown: 
 https://guides.github.com/features/mastering-markdown/
