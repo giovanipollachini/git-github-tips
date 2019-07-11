@@ -72,13 +72,57 @@ You can configure Git Diff in an External Tool.
 git commit
 # Stage all files and commit changes
 git commit -a
+# Commit with inline message
+git commit -m "My message about the changes in the code"
 ```
 
+### Removing Files
 
-
-
-
-
-
-
+```shell
+# Stage the file removal 
+git rm FILE-TO-BE-REMOVED
+# Stage for removal modified files or already staged files
+# (you have to force removal in this case)
+git rm -f FILE-TO-BE-REMOVED
 ```
+
+### Moving and Renaming Files
+
+```shell
+# Move files
+git mv FILE-FROM FILE-TO
+# Rename files
+# (move to the same folder with a diferent name)
+git mv OLD-NAME NEW-NAME
+```
+
+## Viewing the Commit History
+
+### Viewing the Commit History
+```shell
+git log
+git log --pretty=oneline
+```
+
+Other options: https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
+
+## Undoing Things
+
+### Redo the commit
+
+If you want to redo your last commit, make the additional changes you forgot, stage them, and commit again using the --amend option. It is also useful for fixing the commit message.
+
+```shell
+git commit --amend
+```
+
+### Unstaging a Staged File
+```shell
+git reset HEAD FILE-TO-BE-UNSTAGED
+```
+
+### Unmodifying a Modified File
+```shell
+git checkout -- FILE
+```
+
