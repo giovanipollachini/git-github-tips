@@ -13,7 +13,7 @@ $ git config --list
 ```
 
 ## Getting a Git Repository
-![lifecycle-git.png](https://github.com/giovanipollachini/git-github-tips/blob/master/git-tips/images/lifecycle-git.png)
+
 
 ### Initializing a Repository in an Existing Directory
 ```git
@@ -27,4 +27,23 @@ $ git clone https://github.com/repository my-local-repository
 ```
 
 ## Recording Changes to the Repository
+![lifecycle-git.png](https://github.com/giovanipollachini/git-github-tips/blob/master/git-tips/images/lifecycle-git.png)
+Source: 
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
+
+### Checking the Status of Your Files
+```git
+$ git status
+```
+
+
+
+
+
+
+
+
+
+
+```
