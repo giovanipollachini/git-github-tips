@@ -8,22 +8,22 @@ Stores name, e-mail, default program for text files, etc.
 https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 ### Check configuration settings
-```git
-$ git config --list
+```shell
+git config --list
 ```
 
 ## Getting a Git Repository
 This action is done only once, to set up Git inside a directory. If you want to resume your work, it is not necessary to run any command. It is only necessary to `cd` to the directory of the desired project.
 
 ### Initializing a Repository in an Existing Directory
-```git
-$ cd /home/user/my_project
-$ git init
+```shell
+cd /home/user/my_project
+git init
 ```
 
 ### Cloning an Existing Repository
-```git
-$ git clone https://github.com/repository my-local-repository
+```shell
+git clone https://github.com/repository my-local-repository
 ```
 
 ## Recording Changes to the Repository
@@ -34,14 +34,14 @@ https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
 
 ### Checking the Status of Your Files
-```git
-$ git status
-$ git status --short
+```shell
+git status
+git status --short
 ```
 
 ### Tracking New Files
-```git
-$ git add NEWFILE
+```shell
+git add NEWFILE
 ```
 `git add` is a multipurpose command — you use it to begin tracking new files, to stage files, and to do other things like marking merge-conflicted files as resolved. It may be helpful to think of it more as “add precisely this content to the next commit” rather than “add this file to the project”.
 
@@ -69,9 +69,9 @@ You can configure Git Diff in an External Tool.
 
 ```shell
 # Commit staged changes
-git diff
-# View staged changes
-git diff --staged
+git commit
+# Stage all files and commit changes
+git commit -a
 ```
 
 
