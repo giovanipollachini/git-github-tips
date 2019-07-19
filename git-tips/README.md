@@ -165,3 +165,8 @@ git checkout master
 # Merge branch 'branch-name' into 'master
 git merge branch-name
 ```
+### Delete branch
+```shell
+# Delete merged branch
+git branch -d branch-name 
+```
