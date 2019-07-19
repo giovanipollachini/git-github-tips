@@ -11,6 +11,13 @@ https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 ```shell
 git config --list
 ```
+### Insert default text editor
+
+Use a text editor which can be launch on terminal and that leaves the terminal occupied while running. Suggestions: VI / VIM (terminal), Leafpad (opens in a new window but locks terminal while running).
+
+```shell
+git config --global core.editor "leafpad"
+```
 
 ## Getting a Git Repository
 This action is done only once, to set up Git inside a directory. If you want to resume your work, it is not necessary to run any command. It is only necessary to `cd` to the directory of the desired project.
@@ -75,6 +82,8 @@ git commit -a
 # Commit with inline message
 git commit -m "My message about the changes in the code"
 ```
+Recommendations for commits: 
+https://chris.beams.io/posts/git-commit/
 
 ### Removing Files
 
