@@ -85,6 +85,9 @@ git commit -m "My message about the changes in the code"
 Recommendations for commits: 
 https://chris.beams.io/posts/git-commit/
 
+Commit a change with both message and description:
+https://stackoverflow.com/questions/16122234/how-to-commit-a-change-with-both-message-and-description-from-the-command-li
+
 ### Removing Files
 
 ```shell
