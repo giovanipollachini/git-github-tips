@@ -175,3 +175,15 @@ git merge branch-name
 # Delete merged branch
 git branch -d branch-name 
 ```
+
+## Update remote repository
+
+### Push commits to remote repository
+```shell
+# Push commits from local-branch to remote-repository
+git push remote-repository local-branch
+# Usually local-branch = master and remote-repository is cloned from GitHub
+# so there is a shortcut:
+git push
+```
+
