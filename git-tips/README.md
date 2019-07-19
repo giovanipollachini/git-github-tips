@@ -135,3 +135,30 @@ git reset HEAD FILE-TO-BE-UNSTAGED
 git checkout -- FILE
 ```
 
+## Git Branching - Branch Management
+
+### List branches
+```shell
+# List branches
+git branch
+```
+
+### Create new branch
+```shell
+# Create new branch called 'branch-name'
+git branch branch-name
+```
+
+### Move to another branch
+```shell
+# Move the HEAD to another branch
+git checkout branch-name
+```
+
+### Merge branches
+```shell
+# Switch to branch 'master'
+git checkout master
+# Merge branch 'branch-name' into 'master
+git merge branch-name
+```
