@@ -1,6 +1,11 @@
 # Tips on Git
 Tips on Git for Linux.
 
+## References
+
+https://comandosgit.github.io
+https://git-scm.com/book/en/v2
+
 ## Config file
 Stores name, e-mail, default program for text files, etc.
 
