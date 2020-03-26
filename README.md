@@ -10,6 +10,7 @@ https://guides.github.com/activities/hello-world/
 * [Tips on Git](https://github.com/giovanipollachini/git-github-tips/blob/master/git-tips)
 * [Tips on GitHub](https://github.com/giovanipollachini/git-github-tips/tree/master/github-tips)
 * [Tips on Markdown](https://github.com/giovanipollachini/git-github-tips/tree/master/markdown-tips)
+* [Git Branching Model](https://github.com/giovanipollachini/git-github-tips/tree/master/git-branching-model)
 
 # Aditional References
 Mastering Markdown: 
@@ -26,6 +27,7 @@ https://github.com/explore
 
 GitHub Guides on YouTube:
 https://www.youtube.com/githubguides
+
 
 Git book:
 https://git-scm.com/book/en/v2
